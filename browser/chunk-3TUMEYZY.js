@@ -1,0 +1,1 @@
+import{Pa as o,fb as n,gb as a,sb as p}from"./chunk-EVYPOO6A.js";var i=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-about"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),p(1,"about works!"),a())},encapsulation:2})};export{i as AboutComponent};
